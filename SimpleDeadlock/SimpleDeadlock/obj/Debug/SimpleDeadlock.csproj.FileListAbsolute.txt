@@ -1,0 +1,6 @@
+/home/elizaveta/RiderProjects/SimpleDeadlock/SimpleDeadlock/bin/Debug/SimpleDeadlock.exe
+/home/elizaveta/RiderProjects/SimpleDeadlock/SimpleDeadlock/bin/Debug/SimpleDeadlock.pdb
+/home/elizaveta/RiderProjects/SimpleDeadlock/SimpleDeadlock/obj/Debug/SimpleDeadlock.csprojResolveAssemblyReference.cache
+/home/elizaveta/RiderProjects/SimpleDeadlock/SimpleDeadlock/obj/Debug/SimpleDeadlock.csproj.CoreCompileInputs.cache
+/home/elizaveta/RiderProjects/SimpleDeadlock/SimpleDeadlock/obj/Debug/SimpleDeadlock.exe
+/home/elizaveta/RiderProjects/SimpleDeadlock/SimpleDeadlock/obj/Debug/SimpleDeadlock.pdb
